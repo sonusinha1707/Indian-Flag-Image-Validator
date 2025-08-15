@@ -1,4 +1,4 @@
-# 🇮🇳 Indian Flag Image Validator
+# Indian Flag Image Validator
 
 **A championship-grade computer vision system for validating the Indian National Flag** against the official **Bureau of Indian Standards (BIS)** specifications.  
 This tool performs pixel-level analysis to check compliance with **color accuracy, aspect ratio, stripe proportions, and Ashoka Chakra design**.
